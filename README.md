@@ -33,5 +33,3 @@ The performance of both models is evaluated using Mean Absolute Error (MAE) and 
 Results Visualization
 The script generates a comparison plot showing actual PM2.5 AQI values, Linear Regression predictions, and SVR predictions based on Ozone AQI values.
 
-License
-This project is licensed under the MIT License.
